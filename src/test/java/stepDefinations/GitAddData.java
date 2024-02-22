@@ -20,6 +20,8 @@ public class GitAddData {
 		ad.getData02();
 		ad.getData01();
 		ad.getData02();
+		ad.getData01();
+		ad.getData02();
 		
 
 	}
